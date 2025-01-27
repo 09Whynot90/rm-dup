@@ -7,7 +7,7 @@
 
 ## Download :
 > [!NOTE]
-> Use python 3.13.1+
+> Preferred Use python 3.13.1+
 ```
   $ git clone https://github.com/9WhyNot0/9rm-dup0
   $ cd 9rm-dup0
