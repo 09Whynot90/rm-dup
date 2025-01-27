@@ -1,7 +1,7 @@
 ![paneer1](https://github.com/user-attachments/assets/1a1e442f-9d71-46bf-b553-e3976c0ee32f)
 # rm-dup
 
-Usage:
+#Usage:
   python3 filename.py [-h]
 
 Description:
