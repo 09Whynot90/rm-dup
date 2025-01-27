@@ -12,12 +12,12 @@
   $ git clone https://github.com/9WhyNot0/9rm-dup0
   $ cd 9rm-dup0
   $ pip3 install -r requirements_lib.txt
-  $ python3 rm-dup.py
+  $ python3 9rm-dup0.py
 ```
 
 ## Help :
 ```
-  python3 rm-dup.py [-h]
+  python3 9rm-dup0.py [-h]
 ```
     
 ## Usage :
