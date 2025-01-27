@@ -5,6 +5,7 @@
   This script removes duplicate words from a given text file and saves the result to another file.
 
 # Usage :
+> [!WARNING]
 > Use python 3.7+
 ```
   $ git clone https://github.com/9WhyNot0/rm-dup
