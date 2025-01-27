@@ -17,6 +17,6 @@
 ## Usage :
 ```
   1. Run file : python3 9rm-dup0.py
-  2. Enter name file you wante removes duplicate words (input.txt).
-  3. Enter name file to save output (output.txt).
+  2. Enter name file you wante removes duplicate words (input.txt) don't forget extension.
+  3. Enter name file to save output (output.txt) don't forget extension.
 ```
