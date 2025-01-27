@@ -12,7 +12,7 @@ headerName = """
  █████╔╝██║  ██║██║ ╚═╝ ██║     ██████╔╝╚██████╔╝██║     ╚██████╔╝
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝     ╚═════╝  ╚═════╝ ╚═╝      ╚═════╝ 
 
-                            (code by WhyNot..?)
+                            (code by 9WhyNot0)
 """
 
 # Print the header with green color
