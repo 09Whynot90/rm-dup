@@ -1,5 +1,5 @@
 # 9rm-dup0
-![paneer1](https://github.com/user-attachments/assets/1a1e442f-9d71-46bf-b553-e3976c0ee32f)
+![banner1](https://github.com/user-attachments/assets/3df7aa71-164d-4210-80ee-18ed1d907248)
 
 # Description :
   This script removes duplicate words from a given text file and saves the result to another file .
