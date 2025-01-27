@@ -5,7 +5,7 @@
   This script removes duplicate words from a given text file and saves the result to another file .
   it help you when you have a many domains to remove duplicate domains.
 
-## Usage :
+## Download :
 > [!NOTE]
 > Use python 3.7+
 ```
@@ -15,5 +15,8 @@
   $ python3 rm-dup.py
 ```
 ## Usage :
-  1. Enter name file you wante removes duplicate words (input.txt).
-  2. Enter name file to save output (output.txt).
+```
+  1. Run : file python3 rm-dup.py
+  2. Enter name file you wante removes duplicate words (input.txt).
+  3. Enter name file to save output (output.txt).
+```
