@@ -16,9 +16,9 @@
 ```
 
 ## Help :
-    ```
-    python3 rm-dup.py [-h]
-    ```
+```
+  python3 rm-dup.py [-h]
+```
     
 ## Usage :
 ```
