@@ -6,11 +6,12 @@
 
 # Usage :
 --> Use python 3.7+
-
+```
   $ git clone https://github.com/9WhyNot0/rm-dup
   $ cd rm-dup
   $ pip3 install -r requirements_lib.txt
   $ python3 rm-dup.py
+```
 
 1. Enter name file you wante removes duplicate words (input.txt).
 2. Enter name file to save output (output.txt).
