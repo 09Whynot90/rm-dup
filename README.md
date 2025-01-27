@@ -1,5 +1,4 @@
-
-# rm-dup![Uploading paneer1.PNG…]()
+# rm-dup
 
 Usage:
   python3 filename.py [-h]
