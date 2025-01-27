@@ -2,8 +2,10 @@
 ![baneer1](https://github.com/user-attachments/assets/70d1d91a-c092-4389-b9c1-93496b46c052)
 
 # Description :
+```
   This script removes duplicate words from a given text file and saves the result to another file .
   it help you when you have a many domains to remove duplicate domains.
+```
 
 ## Download :
 > [!NOTE]
