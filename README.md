@@ -1,4 +1,4 @@
-# rm-dup
+# 9rm-dup0
 ![paneer1](https://github.com/user-attachments/assets/1a1e442f-9d71-46bf-b553-e3976c0ee32f)
 
 # Description :
@@ -9,14 +9,14 @@
 > [!NOTE]
 > Use python 3.7+
 ```
-  $ git clone https://github.com/9WhyNot0/rm-dup
-  $ cd rm-dup
+  $ git clone https://github.com/9WhyNot0/9rm-dup0
+  $ cd 9rm-dup0
   $ pip3 install -r requirements_lib.txt
   $ python3 rm-dup.py
 ```
 ## Usage :
 ```
-  1. Run file : python3 rm-dup.py
+  1. Run file : python3 9rm-dup0.py
   2. Enter name file you wante removes duplicate words (input.txt).
   3. Enter name file to save output (output.txt).
 ```
