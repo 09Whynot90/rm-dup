@@ -14,6 +14,12 @@
   $ pip3 install -r requirements_lib.txt
   $ python3 rm-dup.py
 ```
+
+## Help :
+    ```
+    python3 rm-dup.py [-h]
+    ```
+    
 ## Usage :
 ```
   1. Run file : python3 9rm-dup0.py
